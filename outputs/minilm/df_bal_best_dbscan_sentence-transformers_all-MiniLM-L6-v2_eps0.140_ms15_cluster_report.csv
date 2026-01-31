@@ -1,0 +1,77 @@
+cluster_id,size,dominant_L3,dominant_count,second_L3,second_count,purity,top2_gap,top_L3_counts
+11,702,Notebooks,357,All-in-One PCs/Workstations,344,0.5085470085470085,0.018518518518518517,Notebooks:357; All-in-One PCs/Workstations:344; PCs/Workstations:1
+40,327,TVs,327,,0,1.0,1.0,TVs:327
+6,227,Flat Panel Spare Parts,218,Notebook Parts & Accessories,9,0.960352422907489,0.920704845814978,Flat Panel Spare Parts:218; Notebook Parts & Accessories:9
+12,190,All-in-One PCs/Workstations,101,Notebooks,89,0.531578947368421,0.06315789473684211,All-in-One PCs/Workstations:101; Notebooks:89
+8,161,Warranty & Support Extensions,161,,0,1.0,1.0,Warranty & Support Extensions:161
+43,149,Antivirus Security Software,146,Software Licenses/Upgrades,3,0.9798657718120806,0.959731543624161,Antivirus Security Software:146; Software Licenses/Upgrades:3
+14,142,Power Adapters & Inverters,142,,0,1.0,1.0,Power Adapters & Inverters:142
+25,137,PCs/Workstations,137,,0,1.0,1.0,PCs/Workstations:137
+62,124,Fibre Optic Cables,124,,0,1.0,1.0,Fibre Optic Cables:124
+46,114,Software Licenses/Upgrades,113,Antivirus Security Software,1,0.9912280701754386,0.9824561403508771,Software Licenses/Upgrades:113; Antivirus Security Software:1
+1,95,Notebook Parts & Accessories,94,Flat Panel Spare Parts,1,0.9894736842105263,0.9789473684210527,Notebook Parts & Accessories:94; Flat Panel Spare Parts:1
+68,92,Projection Screens,92,,0,1.0,1.0,Projection Screens:92
+26,91,PCs/Workstations,91,,0,1.0,1.0,PCs/Workstations:91
+65,82,Networking Cables,82,,0,1.0,1.0,Networking Cables:82
+56,76,Computer Monitors,76,,0,1.0,1.0,Computer Monitors:76
+42,74,Computer Monitors,72,TVs,1,0.972972972972973,0.9594594594594594,Computer Monitors:72; TVs:1; Signage Displays:1
+69,74,Projection Screens,74,,0,1.0,1.0,Projection Screens:74
+2,61,Notebook Parts & Accessories,61,,0,1.0,1.0,Notebook Parts & Accessories:61
+33,59,Print & Scan Accessories,59,,0,1.0,1.0,Print & Scan Accessories:59
+71,58,Uninterruptible Power Supplies (UPSs),58,,0,1.0,1.0,Uninterruptible Power Supplies (UPSs):58
+54,56,Printing Equipment,56,,0,1.0,1.0,Printing Equipment:56
+73,54,Servers,53,System Components,1,0.9814814814814815,0.9629629629629629,Servers:53; System Components:1
+31,49,PCs/Workstations,49,,0,1.0,1.0,PCs/Workstations:49
+74,48,Signage Displays,48,,0,1.0,1.0,Signage Displays:48
+75,47,Server Barebones,46,System Components,1,0.9787234042553191,0.9574468085106383,Server Barebones:46; System Components:1
+9,47,Warranty & Support Extensions,47,,0,1.0,1.0,Warranty & Support Extensions:47
+44,45,Antivirus Security Software,45,,0,1.0,1.0,Antivirus Security Software:45
+41,40,TVs,40,,0,1.0,1.0,TVs:40
+5,39,Notebook Parts & Accessories,39,,0,1.0,1.0,Notebook Parts & Accessories:39
+19,39,Keyboards,39,,0,1.0,1.0,Keyboards:39
+4,36,Notebook Parts & Accessories,36,,0,1.0,1.0,Notebook Parts & Accessories:36
+29,33,PCs/Workstations,33,,0,1.0,1.0,PCs/Workstations:33
+30,33,PCs/Workstations,33,,0,1.0,1.0,PCs/Workstations:33
+61,33,Screen Protectors,33,,0,1.0,1.0,Screen Protectors:33
+59,33,Screen Protectors,33,,0,1.0,1.0,Screen Protectors:33
+72,32,Uninterruptible Power Supplies (UPSs),32,,0,1.0,1.0,Uninterruptible Power Supplies (UPSs):32
+70,29,Mobile Phone Spare Parts,29,,0,1.0,1.0,Mobile Phone Spare Parts:29
+52,29,Printing Supplies,29,,0,1.0,1.0,Printing Supplies:29
+27,29,PCs/Workstations,27,Tablets,2,0.9310344827586207,0.8620689655172413,PCs/Workstations:27; Tablets:2
+20,28,Keyboards,28,,0,1.0,1.0,Keyboards:28
+47,28,Software Licenses/Upgrades,28,,0,1.0,1.0,Software Licenses/Upgrades:28
+50,28,Printing Supplies,28,,0,1.0,1.0,Printing Supplies:28
+48,26,Software Licenses/Upgrades,26,,0,1.0,1.0,Software Licenses/Upgrades:26
+32,25,Print & Scan Accessories,25,,0,1.0,1.0,Print & Scan Accessories:25
+34,24,Print & Scan Accessories,24,,0,1.0,1.0,Print & Scan Accessories:24
+58,24,Screen Protectors,24,,0,1.0,1.0,Screen Protectors:24
+53,24,Cameras & Camcorders,24,,0,1.0,1.0,Cameras & Camcorders:24
+16,23,Power Adapters & Inverters,23,,0,1.0,1.0,Power Adapters & Inverters:23
+28,23,PCs/Workstations,23,,0,1.0,1.0,PCs/Workstations:23
+51,23,Printing Supplies,23,,0,1.0,1.0,Printing Supplies:23
+63,23,Fibre Optic Cables,23,,0,1.0,1.0,Fibre Optic Cables:23
+60,22,Screen Protectors,22,,0,1.0,1.0,Screen Protectors:22
+23,22,Data Storage Devices,22,,0,1.0,1.0,Data Storage Devices:22
+21,22,Keyboards,22,,0,1.0,1.0,Keyboards:22
+57,21,Computer Monitors,21,,0,1.0,1.0,Computer Monitors:21
+0,21,Notebook Parts & Accessories,16,Chassis Components,5,0.7619047619047619,0.5238095238095238,Notebook Parts & Accessories:16; Chassis Components:5
+39,21,Display Privacy Filters,21,,0,1.0,1.0,Display Privacy Filters:21
+15,21,Power Adapters & Inverters,21,,0,1.0,1.0,Power Adapters & Inverters:21
+3,20,Notebook Parts & Accessories,20,,0,1.0,1.0,Notebook Parts & Accessories:20
+38,19,Tablets,19,,0,1.0,1.0,Tablets:19
+67,19,Networking Cables,19,,0,1.0,1.0,Networking Cables:19
+64,18,Mobile Phone Cases,18,,0,1.0,1.0,Mobile Phone Cases:18
+10,18,Warranty & Support Extensions,18,,0,1.0,1.0,Warranty & Support Extensions:18
+66,18,Networking Cables,18,,0,1.0,1.0,Networking Cables:18
+35,17,Print & Scan Accessories,17,,0,1.0,1.0,Print & Scan Accessories:17
+37,17,Household Batteries,17,,0,1.0,1.0,Household Batteries:17
+49,16,Software Licenses/Upgrades,16,,0,1.0,1.0,Software Licenses/Upgrades:16
+18,16,Smartphones,16,,0,1.0,1.0,Smartphones:16
+17,16,Smartphones,16,,0,1.0,1.0,Smartphones:16
+13,16,System Components,16,,0,1.0,1.0,System Components:16
+45,16,Antivirus Security Software,13,Software Licenses/Upgrades,3,0.8125,0.625,Antivirus Security Software:13; Software Licenses/Upgrades:3
+55,16,Printing Equipment,16,,0,1.0,1.0,Printing Equipment:16
+24,15,Data Storage Devices,15,,0,1.0,1.0,Data Storage Devices:15
+22,15,Keyboards,15,,0,1.0,1.0,Keyboards:15
+36,15,Data Projectors,15,,0,1.0,1.0,Data Projectors:15
+7,14,Notebook Parts & Accessories,14,,0,1.0,1.0,Notebook Parts & Accessories:14

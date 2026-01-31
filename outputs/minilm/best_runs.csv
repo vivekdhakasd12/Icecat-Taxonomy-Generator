@@ -1,0 +1,2 @@
+num_L3,num_clusters,noise_ratio,coverage,accuracy_pct,purity,avg_L3_per_cluster,ARI,NMI,model,eps,min_samples
+56,76,0.6470862833579709,0.3529137166420291,89.81481481481481,0.8981481481481481,1.1842105263157894,0.5997543239437173,0.8591196418688835,sentence-transformers/all-MiniLM-L6-v2,0.14,15

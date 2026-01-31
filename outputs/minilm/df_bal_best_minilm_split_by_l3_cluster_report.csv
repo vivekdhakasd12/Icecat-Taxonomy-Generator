@@ -1,0 +1,91 @@
+cluster_id,size,dominant_L3,dominant_count,second_L3,second_count,purity,top2_gap,top_L3_counts
+11__Notebooks,357,Notebooks,357,,0,1.0,1.0,Notebooks:357
+11__All-in-One PCs/Workstations,344,All-in-One PCs/Workstations,344,,0,1.0,1.0,All-in-One PCs/Workstations:344
+40__TVs,327,TVs,327,,0,1.0,1.0,TVs:327
+6__Flat Panel Spare Parts,218,Flat Panel Spare Parts,218,,0,1.0,1.0,Flat Panel Spare Parts:218
+8__Warranty & Support Extensions,161,Warranty & Support Extensions,161,,0,1.0,1.0,Warranty & Support Extensions:161
+43__Antivirus Security Software,146,Antivirus Security Software,146,,0,1.0,1.0,Antivirus Security Software:146
+14__Power Adapters & Inverters,142,Power Adapters & Inverters,142,,0,1.0,1.0,Power Adapters & Inverters:142
+25__PCs/Workstations,137,PCs/Workstations,137,,0,1.0,1.0,PCs/Workstations:137
+62__Fibre Optic Cables,124,Fibre Optic Cables,124,,0,1.0,1.0,Fibre Optic Cables:124
+46__Software Licenses/Upgrades,113,Software Licenses/Upgrades,113,,0,1.0,1.0,Software Licenses/Upgrades:113
+12__All-in-One PCs/Workstations,101,All-in-One PCs/Workstations,101,,0,1.0,1.0,All-in-One PCs/Workstations:101
+1__Notebook Parts & Accessories,94,Notebook Parts & Accessories,94,,0,1.0,1.0,Notebook Parts & Accessories:94
+68__Projection Screens,92,Projection Screens,92,,0,1.0,1.0,Projection Screens:92
+26__PCs/Workstations,91,PCs/Workstations,91,,0,1.0,1.0,PCs/Workstations:91
+12__Notebooks,89,Notebooks,89,,0,1.0,1.0,Notebooks:89
+65__Networking Cables,82,Networking Cables,82,,0,1.0,1.0,Networking Cables:82
+56__Computer Monitors,76,Computer Monitors,76,,0,1.0,1.0,Computer Monitors:76
+69__Projection Screens,74,Projection Screens,74,,0,1.0,1.0,Projection Screens:74
+42__Computer Monitors,72,Computer Monitors,72,,0,1.0,1.0,Computer Monitors:72
+2__Notebook Parts & Accessories,61,Notebook Parts & Accessories,61,,0,1.0,1.0,Notebook Parts & Accessories:61
+33__Print & Scan Accessories,59,Print & Scan Accessories,59,,0,1.0,1.0,Print & Scan Accessories:59
+71__Uninterruptible Power Supplies (UPSs),58,Uninterruptible Power Supplies (UPSs),58,,0,1.0,1.0,Uninterruptible Power Supplies (UPSs):58
+54__Printing Equipment,56,Printing Equipment,56,,0,1.0,1.0,Printing Equipment:56
+73__Servers,53,Servers,53,,0,1.0,1.0,Servers:53
+31__PCs/Workstations,49,PCs/Workstations,49,,0,1.0,1.0,PCs/Workstations:49
+74__Signage Displays,48,Signage Displays,48,,0,1.0,1.0,Signage Displays:48
+9__Warranty & Support Extensions,47,Warranty & Support Extensions,47,,0,1.0,1.0,Warranty & Support Extensions:47
+75__Server Barebones,46,Server Barebones,46,,0,1.0,1.0,Server Barebones:46
+44__Antivirus Security Software,45,Antivirus Security Software,45,,0,1.0,1.0,Antivirus Security Software:45
+41__TVs,40,TVs,40,,0,1.0,1.0,TVs:40
+19__Keyboards,39,Keyboards,39,,0,1.0,1.0,Keyboards:39
+5__Notebook Parts & Accessories,39,Notebook Parts & Accessories,39,,0,1.0,1.0,Notebook Parts & Accessories:39
+4__Notebook Parts & Accessories,36,Notebook Parts & Accessories,36,,0,1.0,1.0,Notebook Parts & Accessories:36
+29__PCs/Workstations,33,PCs/Workstations,33,,0,1.0,1.0,PCs/Workstations:33
+30__PCs/Workstations,33,PCs/Workstations,33,,0,1.0,1.0,PCs/Workstations:33
+61__Screen Protectors,33,Screen Protectors,33,,0,1.0,1.0,Screen Protectors:33
+59__Screen Protectors,33,Screen Protectors,33,,0,1.0,1.0,Screen Protectors:33
+72__Uninterruptible Power Supplies (UPSs),32,Uninterruptible Power Supplies (UPSs),32,,0,1.0,1.0,Uninterruptible Power Supplies (UPSs):32
+70__Mobile Phone Spare Parts,29,Mobile Phone Spare Parts,29,,0,1.0,1.0,Mobile Phone Spare Parts:29
+52__Printing Supplies,29,Printing Supplies,29,,0,1.0,1.0,Printing Supplies:29
+50__Printing Supplies,28,Printing Supplies,28,,0,1.0,1.0,Printing Supplies:28
+20__Keyboards,28,Keyboards,28,,0,1.0,1.0,Keyboards:28
+47__Software Licenses/Upgrades,28,Software Licenses/Upgrades,28,,0,1.0,1.0,Software Licenses/Upgrades:28
+27__PCs/Workstations,27,PCs/Workstations,27,,0,1.0,1.0,PCs/Workstations:27
+48__Software Licenses/Upgrades,26,Software Licenses/Upgrades,26,,0,1.0,1.0,Software Licenses/Upgrades:26
+32__Print & Scan Accessories,25,Print & Scan Accessories,25,,0,1.0,1.0,Print & Scan Accessories:25
+58__Screen Protectors,24,Screen Protectors,24,,0,1.0,1.0,Screen Protectors:24
+53__Cameras & Camcorders,24,Cameras & Camcorders,24,,0,1.0,1.0,Cameras & Camcorders:24
+34__Print & Scan Accessories,24,Print & Scan Accessories,24,,0,1.0,1.0,Print & Scan Accessories:24
+51__Printing Supplies,23,Printing Supplies,23,,0,1.0,1.0,Printing Supplies:23
+63__Fibre Optic Cables,23,Fibre Optic Cables,23,,0,1.0,1.0,Fibre Optic Cables:23
+16__Power Adapters & Inverters,23,Power Adapters & Inverters,23,,0,1.0,1.0,Power Adapters & Inverters:23
+28__PCs/Workstations,23,PCs/Workstations,23,,0,1.0,1.0,PCs/Workstations:23
+60__Screen Protectors,22,Screen Protectors,22,,0,1.0,1.0,Screen Protectors:22
+23__Data Storage Devices,22,Data Storage Devices,22,,0,1.0,1.0,Data Storage Devices:22
+21__Keyboards,22,Keyboards,22,,0,1.0,1.0,Keyboards:22
+57__Computer Monitors,21,Computer Monitors,21,,0,1.0,1.0,Computer Monitors:21
+15__Power Adapters & Inverters,21,Power Adapters & Inverters,21,,0,1.0,1.0,Power Adapters & Inverters:21
+39__Display Privacy Filters,21,Display Privacy Filters,21,,0,1.0,1.0,Display Privacy Filters:21
+3__Notebook Parts & Accessories,20,Notebook Parts & Accessories,20,,0,1.0,1.0,Notebook Parts & Accessories:20
+38__Tablets,19,Tablets,19,,0,1.0,1.0,Tablets:19
+67__Networking Cables,19,Networking Cables,19,,0,1.0,1.0,Networking Cables:19
+66__Networking Cables,18,Networking Cables,18,,0,1.0,1.0,Networking Cables:18
+10__Warranty & Support Extensions,18,Warranty & Support Extensions,18,,0,1.0,1.0,Warranty & Support Extensions:18
+64__Mobile Phone Cases,18,Mobile Phone Cases,18,,0,1.0,1.0,Mobile Phone Cases:18
+35__Print & Scan Accessories,17,Print & Scan Accessories,17,,0,1.0,1.0,Print & Scan Accessories:17
+37__Household Batteries,17,Household Batteries,17,,0,1.0,1.0,Household Batteries:17
+18__Smartphones,16,Smartphones,16,,0,1.0,1.0,Smartphones:16
+13__System Components,16,System Components,16,,0,1.0,1.0,System Components:16
+49__Software Licenses/Upgrades,16,Software Licenses/Upgrades,16,,0,1.0,1.0,Software Licenses/Upgrades:16
+0__Notebook Parts & Accessories,16,Notebook Parts & Accessories,16,,0,1.0,1.0,Notebook Parts & Accessories:16
+17__Smartphones,16,Smartphones,16,,0,1.0,1.0,Smartphones:16
+55__Printing Equipment,16,Printing Equipment,16,,0,1.0,1.0,Printing Equipment:16
+24__Data Storage Devices,15,Data Storage Devices,15,,0,1.0,1.0,Data Storage Devices:15
+36__Data Projectors,15,Data Projectors,15,,0,1.0,1.0,Data Projectors:15
+22__Keyboards,15,Keyboards,15,,0,1.0,1.0,Keyboards:15
+7__Notebook Parts & Accessories,14,Notebook Parts & Accessories,14,,0,1.0,1.0,Notebook Parts & Accessories:14
+45__Antivirus Security Software,13,Antivirus Security Software,13,,0,1.0,1.0,Antivirus Security Software:13
+6__Notebook Parts & Accessories,9,Notebook Parts & Accessories,9,,0,1.0,1.0,Notebook Parts & Accessories:9
+0__Chassis Components,5,Chassis Components,5,,0,1.0,1.0,Chassis Components:5
+45__Software Licenses/Upgrades,3,Software Licenses/Upgrades,3,,0,1.0,1.0,Software Licenses/Upgrades:3
+43__Software Licenses/Upgrades,3,Software Licenses/Upgrades,3,,0,1.0,1.0,Software Licenses/Upgrades:3
+27__Tablets,2,Tablets,2,,0,1.0,1.0,Tablets:2
+1__Flat Panel Spare Parts,1,Flat Panel Spare Parts,1,,0,1.0,1.0,Flat Panel Spare Parts:1
+46__Antivirus Security Software,1,Antivirus Security Software,1,,0,1.0,1.0,Antivirus Security Software:1
+42__TVs,1,TVs,1,,0,1.0,1.0,TVs:1
+73__System Components,1,System Components,1,,0,1.0,1.0,System Components:1
+11__PCs/Workstations,1,PCs/Workstations,1,,0,1.0,1.0,PCs/Workstations:1
+75__System Components,1,System Components,1,,0,1.0,1.0,System Components:1
+42__Signage Displays,1,Signage Displays,1,,0,1.0,1.0,Signage Displays:1

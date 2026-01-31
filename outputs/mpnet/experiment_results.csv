@@ -1,0 +1,2 @@
+num_L3,num_clusters,noise_ratio,coverage,accuracy_pct,purity,avg_L3_per_cluster,ARI,NMI,model,eps,min_samples
+56,69,0.5082860032677196,0.49171399673228045,78.18037974683544,0.7818037974683544,1.3333333333333333,0.5178109771108994,0.8592801671468598,sentence-transformers/all-mpnet-base-v2,0.16,15

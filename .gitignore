@@ -1,0 +1,21 @@
+# Large Data Archives
+Archive.zip
+*.zip
+*.tar.gz
+
+# Data Files (Downloadable/Generated)
+data/*.json
+data/*.npy
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# MacOS
+.DS_Store
+
+# Outputs (Optional, but usually we keep reports/images. Cache should be ignored)
+outputs/cache/
