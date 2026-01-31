@@ -98,4 +98,4 @@ See `outputs/sankey_BIRCH.html`.
 *   For guidance on the application of unsupervised learning techniques to e-commerce taxonomies.
 
 **Author**: Devendra Singh Dhakad
-*   *Generated as part of the Master's Thesis/Project at [University Name]*
+*   *Generated as part of the Case Study at SRH University of Applied Sciences Heidelberg*
