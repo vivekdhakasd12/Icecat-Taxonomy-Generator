@@ -14,7 +14,7 @@ We applied advanced clustering algorithms (**BIRCH**, **OPTICS**, **HDBSCAN**) t
 
 ## 📂 Dataset
 The project uses the **Icecat 1.2GB JSON Dataset**.
-> **Download Link**: [INSERT_GOOGLE_DRIVE_LINK_HERE]
+> **Download Link**: [Google Drive Link](https://drive.google.com/file/d/13f8GHcokLVetrKNM6cFmhaMM0fVCG1NJ/view?usp=sharing)
 
 *   **Size**: 1.2 GB (Raw), 500k+ products.
 *   **Input Features**: Title, Brand, Product Description.
